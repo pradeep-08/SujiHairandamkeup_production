@@ -7,7 +7,7 @@ import Messybun from "../img/Messybun/messy bun.jpeg";
 import HD4 from "../img/HD/HD4.jpeg";
 import HD7 from "../img/HD/HD7.jpeg";
 import HD8 from "../img/HD/HD8.jpeg";``
-import sarreDraping from "../img/SareeDraping/Sareedraping3.jpeg";
+import sarreDraping from "../img/Sareedraping/Sareedraping3.jpeg";
 import HD12 from "../img/HD/HD12.jpeg";
 import Puberty from "../img/puberty/puberty1.jpeg";
 const images = [
