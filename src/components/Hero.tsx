@@ -15,7 +15,7 @@ export default function Hero() {
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
         <div className="max-w-xl">
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
+          <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">
             Transform Your Look with Expert Beauty Services
           </h1>
           <p className="text-xl text-gray-200 mb-8">
