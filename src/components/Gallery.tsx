@@ -4,12 +4,9 @@ import HD from "../img/HD/HD1.jpg";
 import Hairstyle from "../img/Hairstyle/Hairstyle1.jpg";
 import Meganthi from "../img/Meganthi/meganthi1.jpeg";
 import Messybun from "../img/Messybun/messy bun.jpeg";
-// import babyshower2 from "../img/Babyshower/babyshower2.jpeg";
-import babyshower3 from "../img/Babyshower/babyshower3.jpeg";
-import HD10 from "../img/HD/HD10.jpeg";
 import HD4 from "../img/HD/HD4.jpeg";
 import HD7 from "../img/HD/HD7.jpeg";
-import HD8 from "../img/HD/HD8.jpeg";
+import HD8 from "../img/HD/HD8.jpeg";``
 import sarreDraping from "../img/SareeDraping/Sareedraping3.jpeg";
 import HD12 from "../img/HD/HD12.jpeg";
 import Puberty from "../img/puberty/puberty1.jpeg";
