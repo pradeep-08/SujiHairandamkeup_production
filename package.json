@@ -1,13 +1,13 @@
 {
-  "homepage":"https://pradeep-08.github.io/SujiHairandamkeup_production",
+  "homepage": "https://pradeep-08.github.io/SujiHairandamkeup_production",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "start": "vite",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
