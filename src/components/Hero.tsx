@@ -15,14 +15,14 @@ export default function Hero() {
 
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-32">
         <div className="max-w-xl">
-          <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">
+          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
             Transform Your Look with Expert Beauty Services.
           </h1>
           <p className="text-xl text-gray-200 mb-8">
             Professional makeup, traditional mehandi designs, and elegant saree
             draping services for all your special occasions.
           </p>
-          <button className="bg-pink-600 text-white px-8 py-3 rounded-md hover:bg-pink-700 transition flex items-center space-x-2">
+          <button className="bg-pink-600 text-white px-8 py-3 rounded-md hover:bg-pink-700 transition flex items-center space-x-5">
             <span>Book Appointment</span>
             <ArrowRight className="h-5 w-5" />
           </button>
